@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thurs Jul 27 01:34:41 2022
+Created on Thu Jul 27 01:34:41 2022
 
 @author: muhammad bilal
 """
